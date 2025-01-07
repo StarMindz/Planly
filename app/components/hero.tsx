@@ -52,7 +52,7 @@ export default function Hero() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8, delay: 0.4 }}
         >
-          <Button size="lg" className="bg-white text-primary hover:bg-primary hover:text-white transition-colors">
+          <Button size="lg" className="bg-[#661a5d] text-white hover:bg-[#4D0745] hover:text-white transition-colors">
             Get Started
           </Button>
         </motion.div>
