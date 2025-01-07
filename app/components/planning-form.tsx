@@ -5,7 +5,7 @@ import { Button } from '@/components/ui/button'
 import { Textarea } from '@/components/ui/textarea'
 import { Card, CardContent, CardFooter, CardHeader, CardTitle } from '@/components/ui/card'
 import { Input } from '@/components/ui/input'
-import { Send, Paperclip } from 'lucide-react'
+import { Send } from 'lucide-react'
 
 export default function PlanningForm() {
   const [prompt, setPrompt] = useState('')
